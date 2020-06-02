@@ -1,7 +1,7 @@
 # Dialogue-Management
 This is a paper list and other informations for dialogue management in NLP.
 
-This repository was inspired by [[Style-Transfer-in-Text]](https://github.com/fuzhenxin/Style-Transfer-in-Text).
+This repository was written inspired by [[Style-Transfer-in-Text]](https://github.com/fuzhenxin/Style-Transfer-in-Text).
 
 **Keyword:** *Dialogue Management*
 
