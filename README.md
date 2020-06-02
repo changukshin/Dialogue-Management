@@ -33,8 +33,8 @@ This repository was written inspired by [[Style-Transfer-in-Text]](https://githu
 
 ## Challenges
 
-- DSTC: Dialogue System Technology Challenge, [[web]](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
-- ConvAI : The Conversational Intelligence Challenge, [[web]](http://convai.io/)
+- DSTC: Dialogue System Technology Challenge. [[web]](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
+- ConvAI : The Conversational Intelligence Challenge. [[web]](http://convai.io/)
 
 ## Workshops
 
@@ -44,4 +44,4 @@ This repository was written inspired by [[Style-Transfer-in-Text]](https://githu
   
 ## SIGs
 
-- SigDial: ACL/ISCA Special Interest Group on Discourse and Dialogue, [[web]](https://www.aclweb.org/anthology/sigs/sigdial/)
+- SigDial: ACL/ISCA Special Interest Group on Discourse and Dialogue. [[web]](https://www.aclweb.org/anthology/sigs/sigdial/)
