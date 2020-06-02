@@ -5,7 +5,7 @@ This repository was written inspired by [[Style-Transfer-in-Text]](https://githu
 
 **Keyword:** *Dialogue Management*
 
-# Dataset
+# Datasets
 
 ## Goal-Oriented
 
@@ -21,9 +21,27 @@ This repository was written inspired by [[Style-Transfer-in-Text]](https://githu
 
 ## Dialogue Modeling
 
+- Williams, J.D., Asadi, K. and Zweig, G., 2017. Hybrid code networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning. arXiv preprint arXiv:1702.03274. [[paper]](https://arxiv.org/abs/1702.03274), [[unofficial code]](https://github.com/johndpope/hcn)
+
 - Zhang, Y., Sun, S., Galley, M., Chen, Y.C., Brockett, C., Gao, X., Gao, J., Liu, J. and Dolan, B., 2019. DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation. arXiv preprint arXiv:1911.00536. [[paper]](https://arxiv.org/abs/1911.00536), [[official code]](https://github.com/microsoft/DialoGPT)
 
 ## State Tracking
 
 - Wu, C.S., Madotto, A., Hosseini-Asl, E., Xiong, C., Socher, R. and Fung, P., 2019. Transferable multi-domain state generator for task-oriented dialogue systems. arXiv preprint arXiv:1905.08743. [[paper]](https://arxiv.org/abs/1905.08743), [[official code]](https://github.com/jasonwu0731/trade-dst)
 
+# Challenges / Workshops / SIGs
+
+## Challenges
+
+- DSTC: Dialogue System Technology Challenge, [[web]](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
+- ConvAI : The Conversational Intelligence Challenge, [[web]](http://convai.io/)
+
+## Workshops
+
+- NLP4ConvAI : NLP for Conversational AI
+  - [[1st, web, 2019 ACL]](https://sites.google.com/view/nlp4convai/)
+  - [[2nd, web, 2020 ACL]](https://sites.google.com/view/2ndnlp4convai/home)
+  
+## SIGs
+
+- SigDial: ACL/ISCA Special Interest Group on Discourse and Dialogue, [[web]](https://www.aclweb.org/anthology/sigs/sigdial/)
