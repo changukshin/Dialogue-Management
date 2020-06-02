@@ -19,4 +19,11 @@ This repository was written inspired by [[Style-Transfer-in-Text]](https://githu
 
 # Modeling Approaches
 
-## 
+## Dialogue Modeling
+
+- Zhang, Y., Sun, S., Galley, M., Chen, Y.C., Brockett, C., Gao, X., Gao, J., Liu, J. and Dolan, B., 2019. DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation. arXiv preprint arXiv:1911.00536. [[paper]](https://arxiv.org/abs/1911.00536), [[official code]](https://github.com/microsoft/DialoGPT)
+
+## State Tracking
+
+- Wu, C.S., Madotto, A., Hosseini-Asl, E., Xiong, C., Socher, R. and Fung, P., 2019. Transferable multi-domain state generator for task-oriented dialogue systems. arXiv preprint arXiv:1905.08743. [[paper]](https://arxiv.org/abs/1905.08743), [[official code]](https://github.com/jasonwu0731/trade-dst)
+
